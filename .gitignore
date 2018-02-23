@@ -1,16 +1,4 @@
-.project
-*.DS_Store
-*.idea
-/nightwatch.json
-node_modules
-npm-debug.log
-lib-cov
-coverage.html
-selenium-debug.log
-phantomjsdriver.log
-tests_output
-*~
-\#*
-\.#*
-output
-/test/hooks_output
+/node_module
+
+# Selenium JARs.
+/other/selenium-builds
